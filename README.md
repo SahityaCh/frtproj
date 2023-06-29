@@ -6,7 +6,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - (https://jolly-pond-016579c00.3.azurestaticapps.net/)
-**Project Demo Video Link** - 
+**Project Demo Video Link** -  https://youtu.be/MzLOcHVWB9A
 
 
 ## Features and Functionalities 😃
