@@ -33,11 +33,13 @@ This is a web based application developed for health related telugu based websit
 
 
 
-### contact us -
+### Contact us -
 
 ![WhatsApp Image 2023-06-29 at 17 10 09](https://github.com/SahityaCh/frtproj/assets/113755671/44f6d7e4-6310-4be2-815a-73ad026cd9bc)
 
+### Services -
 
+![WhatsApp Image 2023-06-29 at 17 13 04](https://github.com/SahityaCh/frtproj/assets/113755671/69c3a31f-5c62-4629-a9a0-a783b229fb50)
 
 
 
